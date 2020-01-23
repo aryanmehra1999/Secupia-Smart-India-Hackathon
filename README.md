@@ -6,9 +6,9 @@ This is an atttempt at MixOrg's problem statement for building an app for the re
 4. Use data driven parking system for the residents ad outsiders
 
 ## Team Members - BITS Pilani 2017 batch
-Aryan Mehra (Team Leader)
-Anirudh Chakravarthy 
-Divyam Goel
-Pratik Bacchav
-Nishant Mahajan
-Shivangi Singh
+* Aryan Mehra (Team Leader)
+* Anirudh Chakravarthy 
+* Divyam Goel
+* Pratik Bacchav
+* Nishant Mahajan
+* Shivangi Singh
